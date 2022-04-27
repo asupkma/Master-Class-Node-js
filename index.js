@@ -17,7 +17,6 @@ var helpers = require('./lib/helpers');
 
 // TEST
 //TESTING
-//asl;kdjg;laskjdg;lksdjfjkgsdfg
 // @TODO delete this
 //_data.create('test','newFile',{'foo' : 'bar'},function(err){
 //  console.log('this was the error',err);
