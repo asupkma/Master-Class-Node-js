@@ -3,6 +3,8 @@
 * Primary file for the API
 *
 */
+//process.exitCode = 1;
+//process.exit(1);
 // Dependencies
 var http = require('http');
 var https = require('https');
