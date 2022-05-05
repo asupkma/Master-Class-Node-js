@@ -15,6 +15,13 @@ var fs = require('fs');
 var _data = require('./lib/data');
 var handlers = require('./lib/handlers');
 var helpers = require('./lib/helpers');
+
+
+// @TODO GET RID OF THIS
+helpers.sendTwilioSms('7072065149','Hello!',function(err){
+  console.log('this was the error ',err);
+});
+
 //var server = require('./server');
 
 // TEST
