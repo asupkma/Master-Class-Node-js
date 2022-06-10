@@ -1,2 +1,3 @@
 twilio.js
+.gitignore
 /home/user/NODE/lib/config.js
